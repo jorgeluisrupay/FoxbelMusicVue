@@ -38,12 +38,12 @@ export default {
     background:  linear-gradient(0deg, rgba(230, 132, 132, 0.7), rgba(228, 124, 124, 0.7)), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwl9zHA-MBDcI-S4ktwOt8tImDqvwYgCuNpQ&usqp=CAU);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 300px;
+    height: auto;
 
 }
 .portada img{
     border: 2px solid #662323;
-    height: 300px; 
+    height: 100%; 
     width: 250px; 
 }
 .title{
@@ -75,7 +75,7 @@ export default {
 }
 .botones button{
 
-    margin: 30px 50px 0 0;
+    margin: 30px 50px 15px 10px;
     width: 120px;
     border-radius: 20px;
     border: 3px solid #E86060;

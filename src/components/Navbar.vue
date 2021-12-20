@@ -54,10 +54,9 @@ h3{
 .nav-link:focus,
 .nav-link:active,
 .nav-link:hover{
-    color: #E86060;
+    color: #E86060;    
 }
 .navegador img{
-    padding-left: 40px ;
     width: 250px;
     height: 59px;
     margin-bottom: 20px;
